@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 # 🐐 Varren Hansen
 
 **`Digital Architect (Developer)`**
@@ -18,7 +20,10 @@ I'm an Indonesian Software developer from Indonesia who is keen on improving and
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<!-- <img align="left" alt="Express" width="30px" style="padding-right:10px; fill:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> -->
+
+<i align="left" alt="GitHub"  style="padding-right:10px;font-size : 30px" class="devicon-express-original"></i>
+          
 <br />
 
 #
